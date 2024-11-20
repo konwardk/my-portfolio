@@ -1,0 +1,9 @@
+.contact-form{
+    border:1px solid green;
+    display: flex;
+    justify-content: center;
+}
+.form-field{
+    margin-top: 1rem;
+    
+}

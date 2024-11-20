@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.about-me{
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+.p-img{
+    padding: 3rem;
+    margin: 3rem;
+}
+.img{
+    height: 225px;
+    width: 225px;
+    margin-left: 20rem;
+    background-color: #fd8181;
+    /* background-image: linear-gradient(to right,rgb(231, 206, 206),rgb(232, 219, 212)); */
+    border-radius: 58% 42% 26% 74% / 40% 38% 62% 60%   ;
+}
+.about-section{
+    text-align: center;
+    padding: 4rem 5rem;
+}
+.name{
+    color: #fd8181;
+    font-size: 2rem;
+    font-style: italic;
+}
+.skills{
+    text-align: center;
+}
+.my-Skills{
+    height: 20rem;
+    width: 100%;
+    /* padding: 3rem 3rem; */
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+
+.img-t{
+    height: 5rem;
+    width: 5rem;
+    padding: 3px;
+    /* margin: 10px; */
+}
+@media only screen and (max-width:430px){
+    .img{
+        margin-left: 0px;
+    }
+    .about-me{
+        display: grid;
+    }
+    .about-section{
+        padding: 1rem 2rem;
+    }
+    .my-Skills{
+        height: 25rem;
+        padding: 0px;
+    }
+    .img-t{
+        margin: 10px;
+    }
+ 
+}
+@media only screen and (min-width:800px){
+    .img{
+        margin-left: 0px;
+    }
+    .my-Skills{
+        /* background-color: #fd8181; */
+        padding: 0;
+      
+    }
+
+
+}

@@ -1,0 +1,30 @@
+.message{
+    width: 100%;
+    position:fixed;
+    top: 0px;
+    color: #303030;
+    background-color:#A4DE02;
+    text-align: center;
+    height: 25px;
+    z-index: 3;
+}
+.navigation{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    padding: 15px;
+    z-index: 2;
+    background-color: #303030;
+}
+.navigation ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
+.navigation li a{
+    /* color: #303030; */
+    color: #ffff;
+    padding: 10px;
+}

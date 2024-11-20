@@ -1,0 +1,11 @@
+.App {
+  height: 140vh;
+  /* background-color: #212121;
+  color: aliceblue; */
+}
+@media only screen and (max-width: 455px) {
+  .App{
+    text-align: center;
+  }
+  
+}
