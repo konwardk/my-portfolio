@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18e644ef.css",
+    "main.js": "/static/js/main.1502fd4b.js",
+    "static/js/988.c18ec82b.chunk.js": "/static/js/988.c18ec82b.chunk.js",
+    "static/media/oexam.png": "/static/media/oexam.f5e966a09b347d93c7c1.png",
+    "static/media/react.png": "/static/media/react.becbab0ab5d2271d2831.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/bgNone.png": "/static/media/bgNone.763fa4d7639839a8dd42.png",
+    "static/media/css.png": "/static/media/css.25a6e01747de27ba60d3.png",
+    "static/media/emp management.png": "/static/media/emp management.7b0a5ed2c4badcd779f1.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/tailwind.png": "/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/laravel.png": "/static/media/laravel.2ebf4db3cc9f1b431979.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/cms.png": "/static/media/cms.03c30b33c31f75421e06.png",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/jQuery.png": "/static/media/jQuery.eb105fbbfb1112c72276.png",
+    "static/media/portfolio.png": "/static/media/portfolio.f88d0cf97ed46f8faa9f.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/ajax.png": "/static/media/ajax.3131a80663fe0da75685.png",
+    "static/media/js.png": "/static/media/js.cf7522f436d6510da302.png",
+    "static/media/restaurant.png": "/static/media/restaurant.92e98af441b7f7b6d71c.png",
+    "static/media/php.png": "/static/media/php.842ef02b41f2b4a40201.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/car-rent.png": "/static/media/car-rent.7973b7f983a04d1a732c.png",
+    "static/media/nodejs.png": "/static/media/nodejs.c580880cda32187e07e1.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/index.html",
+    "main.18e644ef.css.map": "/static/css/main.18e644ef.css.map",
+    "main.1502fd4b.js.map": "/static/js/main.1502fd4b.js.map",
+    "988.c18ec82b.chunk.js.map": "/static/js/988.c18ec82b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e644ef.css",
+    "static/js/main.1502fd4b.js"
+  ]
+}
